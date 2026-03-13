@@ -1,3 +1,18 @@
+# BlackChain Labs
+
+BlackChain Labs builds decentralized infrastructure for edge computing, mesh networking, and AI-driven economic systems.
+
+### 🌐 Links
+
+Website  
+https://BlackChainLabsLLC.com
+
+Node Network  
+https://NodeTheGlobe.com
+
+GitHub  
+https://github.com/BlackChainLabsLLC
+
 # BlackChain Documentation
 
 This repository contains the official developer documentation for the BlackChain protocol.
